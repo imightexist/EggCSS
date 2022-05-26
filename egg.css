@@ -35,6 +35,6 @@ body{
     border: none
 }
 
-.btn.red:hover {
+.btn-red:hover {
     background-color: #ed2d2d;
 }
