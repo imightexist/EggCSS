@@ -1,1 +1,40 @@
+.navbar{
+    background-color: #171717;
+    font-family:Arial, Helvetica, sans-serif    
+}
+body{
+    background-color: #171717;
+    font-family:Arial, Helvetica, sans-serif
+}
+.btn-green{
+    background-color:#16b85c;
+    font-size:30px;
+    color:white;
+    border-style:none;
+}
+.btn-green:hover{
+    background-color:#16e06e;
+    font-size:30px;
+    color:white;
+    border-style:none;
+}
+.btn-blue{
+    background-color: rgb(10, 151, 233);
+    font-size: 30px;
+    color: white;
+    border: none
+}
 
+.btn.blue:hover {
+    background-color: rgb(32, 126, 204);
+}
+.btn-red{
+    background-color: #f54545;
+    font-size: 30px;
+    color: white;
+    border: none
+}
+
+.btn.red:hover {
+    background-color: #ed2d2d;
+}
